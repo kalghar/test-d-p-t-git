@@ -15,3 +15,7 @@ Modifier une page html ou css ou ajouter une page html ou css
 pour ajouter de nouveau fichier créer faire git -a
 puis un nouveau commit -m ""(nom de ce que c'est)
 puis de nouveau git push
+
+pour récupérer du nouveau contenu faire git pull
+
+pour créer une autre branche git branch
